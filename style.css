@@ -86,15 +86,3 @@ border: none;
     border-bottom-left-radius: 4px;
 color: #0f1111;
 }
-.nav-country-map {
-    width: auto;
-    height: 40px;
-    display: flex;
-    align-items: center;
-}
-
-.nav-country-option {
-    background-color: transparent;
-    color: antiquewhite;
-    border: none;
-}
